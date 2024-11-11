@@ -1,23 +1,2 @@
-# Node.js
-node_modules/
-
-# Environment files
 .env
-
-# Logs
-logs/
-*.log
-
-# Dependency directories
-.next/
-.nuxt/
-dist/
-build/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE specific files
-.vscode/
-.idea/
+node_modules/
