@@ -1,5 +1,7 @@
-# Ignore environment variable files
-.env
+# .gitignore
 
-# Ignore node_modules directory
+# Ignore environment files
+backend/.env
+frontend/.env
 node_modules/
+.vercel
